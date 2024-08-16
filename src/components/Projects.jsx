@@ -16,7 +16,6 @@ function Projects() {
         <Swiper
           className="mySwiper"
           spaceBetween={20}
-          loop={true}
           autoplay={{
             delay: 2000,
             disableOnInteraction: false,
