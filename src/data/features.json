@@ -1,0 +1,24 @@
+{
+    "features": [
+        {
+            "title": "Custom Design Solutions",
+            "description": "We create personalized designs that align with your brand identity, ensuring your website stands out.",
+            "icon":"AiOutlineAntDesign"
+        },
+        {
+            "title": "Responsive Web Development",
+            "description": "Our websites are optimized for desktops, tablets, and smartphones, providing a seamless user experience.",
+            "icon":"CiMobile3"
+        },
+        {
+            "title": "SEO-Optimized Content",
+            "description": "We help you rank higher on search engines, driving more organic traffic to your website and increasing visibility.",
+            "icon":"MdManageSearch"
+        },
+        {
+            "title": "Fast and Secure Hosting",
+            "description": "We ensure your website loads quickly and remains secure, providing peace of mind and a better experience.",
+            "icon":"GrSecure"
+        }
+    ]
+}
