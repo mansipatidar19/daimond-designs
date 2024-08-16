@@ -37,13 +37,13 @@ function Projects() {
           modules={[Autoplay]}
         >
           <SwiperSlide>
-            <Project src="/images/eCommerce.jpeg" title="A static E-Commerce UI" />
+            <Project src="/daimond-designs/src/images/eCommerce.jpeg" title="A static E-Commerce UI" />
           </SwiperSlide>
           <SwiperSlide>
-            <Project src="/images/Sales.jpeg" title="A dynamic Sales App" />
+            <Project src="/daimond-designs/src/images/Sales.jpeg" title="A dynamic Sales App" />
           </SwiperSlide>
           <SwiperSlide>
-            <Project src="/images/Calculator.jpeg" title="A functioning Calculator" />
+            <Project src="/daimond-designs/src/images/Calculator.jpeg" title="A functioning Calculator" />
           </SwiperSlide>
         </Swiper>
       </div>

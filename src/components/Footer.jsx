@@ -7,7 +7,7 @@ function Footer() {
         {/* Company Logo or Icon */}
         <div className="mb-3">
           <img
-            src="/images/logo2.png"
+            src="/daimond-designs/src/images/logo2.png"
             alt="Daimond Designs"
             className="w-14 h-14 rounded-full"
           />
