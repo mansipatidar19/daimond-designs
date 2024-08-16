@@ -3,11 +3,11 @@ import React from "react";
 function HeroSection() {
   const lineHeight =
     window.innerWidth >= 1024 ? 1.45 : window.innerWidth >= 768 ? 1.25 : 1.1;
-    
+
   return (
     <div className="flex md:flex-row flex-col w-full">
       <section className="basis-1/2 p-6 md:pt-8 md:ps-12 lg:pt-12 lg:ps-16 ">
-        <h2 
+        <h2
           className="text-3xl tracking-wide font-bold leading-relaxed mb-2 md:text-5xl"
           style={{ lineHeight: lineHeight }}
         >
@@ -25,6 +25,7 @@ function HeroSection() {
           alt="Your idea our design"
           className="h-72 ps-4"
           data-aos="zoom-in"
+          data-aos-delay="1800"
         />
       </div>
     </div>
