@@ -9,7 +9,7 @@ function Header() {
     <div className="flex flex-row w-full shadow-sm lg:px-3">
       <div className="md:w-16 lg:w-36 w-28 mt-1">
         <img
-          src="/daimond-designs/src/images/logo2.png"
+          src="https://www.dropbox.com/scl/fi/v7m07jcuqhhofbk4l0mee/logo2.png?rlkey=91ew58mj6afckgn59q1kz9n2y&raw=1"
           alt="Daimond Designs"
           className="w-16 h-16 rounded-full"
         />

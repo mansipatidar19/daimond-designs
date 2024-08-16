@@ -21,7 +21,7 @@ function HeroSection() {
       </section>
       <div className="basis-1/2 p-4 md:pt-8 lg:pt-12">
         <img
-          src="/daimond-designs/src/images/hero-banner.png"
+          src="https://www.dropbox.com/scl/fi/px14d243g9swi4z113smm/hero-banner.png?rlkey=px8i2xh1gjh15dmgzjyxiub4o&raw=1"
           alt="Your idea our design"
           className="h-72 ps-4"
           data-aos="zoom-in"

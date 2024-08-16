@@ -38,19 +38,19 @@ function Projects() {
         >
           <SwiperSlide>
             <Project
-              src="/daimond-designs/src/images/eCommerce.jpeg"
+              src="https://www.dropbox.com/scl/fi/95nxj1nqhli2bvlbisj97/eCommerce.jpeg?rlkey=t4qkjjcitfftma3h5q9xxmyo6&raw=1"
               title="A static E-Commerce UI"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Project
-              src="/daimond-designs/src/images/Sales.jpeg"
+              src="https://www.dropbox.com/scl/fi/9nwkcuw4vxyl759mdxgkx/Sales.jpeg?rlkey=oww6yjc92md0ailkekdigou6e&raw=1"
               title="A dynamic Sales App"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Project
-              src="https://www.dropbox.com/scl/fi/5p1oj6g2a48zq0hx3u8m2/Calculator.jpeg?rlkey=zbivgbadhqetrmmn75nghsaxg&st=mjwmaj0u&dl=0"
+              src="https://www.dropbox.com/scl/fi/5p1oj6g2a48zq0hx3u8m2/Calculator.jpeg?rlkey=zbivgbadhqetrmmn75nghsaxg&raw=1"
               title="A functioning Calculator"
             />
           </SwiperSlide>
